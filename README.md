@@ -1,5 +1,5 @@
-# EcoIA
-Olá! Este é um projeto de um chatbot da ecologia por nome EcoIA que foi desenvolvido pelos alunos do IF Baiano - Campus Guanambi.<br>
+# Sistema de Gerenciamento de Escola
+Olá! Este é um projeto do curso Programação de Sistemas para Web (PSW) pelo professor Carlos Anderson Oliveira Silva, no qual usamos Django e Bootstrap e foi desenvolvido pelos alunos do IF Baiano - Campus Guanambi.<br>
 São eles: 
 
 | Adriel Lima                                                                                   | Emilly Victoria                                                                                 | Vinícius Morais                                                                                 |
